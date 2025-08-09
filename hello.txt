@@ -3,5 +3,4 @@ Hello world!
 Hello world!
 
 Feature A
-
-This file was changed  by develop branch!
+file was changed  by develop branch! (main branch)
