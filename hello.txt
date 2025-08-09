@@ -1,6 +1,0 @@
-Hello world!
-Hello world!
-Hello world!
-
-Feature A
-file was changed  by develop branch! (develop branch)
